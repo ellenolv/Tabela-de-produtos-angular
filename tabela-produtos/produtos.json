@@ -1,0 +1,46 @@
+{
+  "Produtos": [
+    {
+      "id": 1,
+      "name": "Barra de Chocolate",
+      "valor": "3.99",
+      "peso": "100",
+      "fabricacao": "01-03-2023"
+    },
+    {
+      "id": 2,
+      "name": "Bombom",
+      "valor": "1.99",
+      "peso": "15",
+      "fabricacao": "15-02-2023"
+    },
+    {
+      "id": 3,
+      "name": "Trufa de Chocolate",
+      "valor": "2.49",
+      "peso": "30",
+      "fabricacao": "28-02-2023"
+    },
+    {
+      "id": 4,
+      "name": "Ovo de Páscoa",
+      "valor": "14.99",
+      "peso": "250",
+      "fabricacao": "10-04-2023"
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Quente",
+      "valor": "5.49",
+      "peso": "200",
+      "fabricacao": "25-01-2023"
+    },
+    {
+      "id": 6,
+      "name": "Tablete de Chocolate",
+      "valor": "2.99",
+      "peso": "90",
+      "fabricacao": "20-02-2023"
+    }
+  ]
+}
